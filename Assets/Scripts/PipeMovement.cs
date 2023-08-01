@@ -5,7 +5,7 @@ using UnityEngine;
 public class PipeMovement : MonoBehaviour
 {
     // Start is called before the first frame update
-    [SerializeField] float speed = 2f;
+    [SerializeField] float speed = 50f;
     void Start()
     {
         
